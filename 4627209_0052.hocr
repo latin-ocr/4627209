@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./4627209_0052.png"; bbox 0 0 1740 2837; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 653 929 1174 999">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 653 929 1174 999">
+     <span class='ocr_line' id='line_1_1' title="bbox 653 929 1174 999; baseline 0.002 -18"><span class='ocrx_word' id='word_1_1' title='bbox 653 929 1174 999; x_wconf 79' lang='lat' dir='ltr'><strong><em>Corrigenda.</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 373 1081 1434 1136">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 373 1081 1434 1136">
+     <span class='ocr_line' id='line_1_2' title="bbox 373 1081 1434 1136; baseline 0.005 -15"><span class='ocrx_word' id='word_1_2' title='bbox 373 1081 479 1135; x_wconf 81' lang='lat' dir='ltr'><strong>Pag.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 504 1081 558 1122; x_wconf 78' lang='lat'><strong><em>28</em></strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 583 1082 653 1121; x_wconf 86' lang='lat' dir='ltr'><strong>lin.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 680 1083 732 1122; x_wconf 87' lang='lat'><strong><em>18</em></strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 755 1083 851 1136; x_wconf 81' lang='lat' dir='ltr'><strong>lege</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 878 1086 1088 1124; x_wconf 67' lang='lat' dir='ltr'><strong><em>consensio</em></strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1114 1098 1189 1136; x_wconf 87' lang='lat' dir='ltr'><strong><em>pro</em></strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1218 1088 1434 1126; x_wconf 74' lang='lat' dir='ltr'><strong><em>consentio.</em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
